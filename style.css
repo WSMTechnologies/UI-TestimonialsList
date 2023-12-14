@@ -84,7 +84,7 @@ section.t-bq-section {
   height: 90px;
   background: url("https://iraqi-datepalms.net/wp-content/uploads/2023/02/unnamed.jpg")
     center center no-repeat;
-  background-size: contain;
+  background-size: cover;
   border-radius: 50%;
   outline: solid 4px #999;
 }
